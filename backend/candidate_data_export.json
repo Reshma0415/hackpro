@@ -1,0 +1,653 @@
+[
+  {
+    "applicationNo": "APP-2026-453746",
+    "candidateId": "CT-2026-453746",
+    "email": "verify.livephotos.1791509118477@demo.com",
+    "roleApplied": "Software Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "LivePhoto",
+      "lastName": "Tester",
+      "phone": "+91 9988776655",
+      "email": "verify.livephotos.1791509118477@demo.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-05-15"
+    },
+    "educationDetails": {
+      "college": {
+        "degree": "B.Tech",
+        "collegeName": "NIT",
+        "cgpa": "9.0"
+      }
+    },
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 4321",
+    "dateOfBirth": "2001-05-15",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN"
+    },
+    "profilePhoto": "data:image/png;base64,NORMAL_PROFILE_PHOTO_BASE64_... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/png;base64,LIVE_PHOTO_1_CAPTURE_DA... [Base64 Image Data]",
+      "Live Photo #2: data:image/png;base64,LIVE_PHOTO_2_CAPTURE_DA... [Base64 Image Data]",
+      "Live Photo #3: data:image/png;base64,LIVE_PHOTO_3_CAPTURE_DA... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-458527",
+    "candidateId": "CT-2026-458527",
+    "email": "arun.test.ropes@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Arun",
+      "lastName": "Kumar",
+      "phone": "9876543210",
+      "email": "arun.test.ropes@gmail.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "1998-05-20"
+    },
+    "educationDetails": {
+      "college": {
+        "degree": "B.Tech IT",
+        "cgpa": "8.5"
+      }
+    },
+    "skills": [
+      {
+        "name": "React"
+      },
+      {
+        "name": "Node.js"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 8899",
+    "dateOfBirth": "1998-05-20",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN"
+    },
+    "profilePhoto": "/uploads/default_avatar.png... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #2: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #3: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-570717",
+    "candidateId": "CT-2026-570717",
+    "email": "jsreshma15@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "reshma ",
+      "lastName": "s",
+      "phone": "9",
+      "email": "jsreshma15@gmail.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-04-14"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "vrp ",
+        "board": "CBSE",
+        "year": "2018",
+        "percentage": "90",
+        "marksheet": ""
+      },
+      "twelfth": {
+        "school": "vrp",
+        "board": "CBSE",
+        "year": "2020",
+        "percentage": "90",
+        "marksheet": ""
+      },
+      "college": {
+        "collegeName": "eec",
+        "degree": "B.Tech in Computer Science",
+        "branch": "Computer Science & Engineering",
+        "university": "anna univercity",
+        "cgpa": "8.8",
+        "graduationYear": "2024",
+        "marksheet": ""
+      }
+    },
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 4885",
+    "dateOfBirth": "2001-04-14",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #2: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #3: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-507459",
+    "candidateId": "CT-2026-507459",
+    "email": "jsreshma15@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Reshma ",
+      "lastName": "JS",
+      "phone": "9488842345",
+      "email": "jsreshma15@gmail.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-04-14"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "smvc",
+        "board": "CBSE",
+        "year": "2018",
+        "percentage": "90%",
+        "marksheet": ""
+      },
+      "twelfth": {
+        "school": "vrp",
+        "board": "CBSE",
+        "year": "2020",
+        "percentage": "90%",
+        "marksheet": ""
+      },
+      "college": {
+        "collegeName": "Easwari Engineering College",
+        "degree": "B.Tech in Computer Science",
+        "branch": "Computer Science & Engineering",
+        "university": "Anna university",
+        "cgpa": "8.8",
+        "graduationYear": "2024",
+        "marksheet": ""
+      }
+    },
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 4885",
+    "dateOfBirth": "2001-04-14",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #2: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #3: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-234677",
+    "candidateId": "CT-2026-234677",
+    "email": "newcandidate1791481892401@example.com",
+    "roleApplied": "Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Suresh",
+      "lastName": "Kumar",
+      "phone": "+91 99887 76655",
+      "email": "newcandidate1791481892401@example.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-05-15"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "Govt Higher Secondary School",
+        "board": "State Board",
+        "year": "2017",
+        "percentage": "90%"
+      },
+      "twelfth": {
+        "school": "Govt Higher Secondary School",
+        "board": "State Board",
+        "year": "2019",
+        "percentage": "88%"
+      },
+      "college": {
+        "collegeName": "Anna University",
+        "degree": "B.E. CSE",
+        "branch": "CSE",
+        "cgpa": "8.5",
+        "graduationYear": "2023"
+      }
+    },
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 5566",
+    "dateOfBirth": "2001-05-15",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "/uploads/profile_demo.jpg... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #2: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #3: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-503109",
+    "candidateId": "CT-2026-503109",
+    "email": "jsreshma04@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Reshma ",
+      "lastName": "JS",
+      "phone": "9488842345",
+      "email": "jsreshma04@gmail.com",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-04-14"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "smvc",
+        "board": "CBSE",
+        "year": "2018",
+        "percentage": "90%",
+        "marksheet": ""
+      },
+      "twelfth": {
+        "school": "vrp",
+        "board": "CBSE",
+        "year": "2020",
+        "percentage": "90%",
+        "marksheet": ""
+      },
+      "college": {
+        "collegeName": "Easwari Engineering College",
+        "degree": "B.Tech in Computer Science",
+        "branch": "Computer Science & Engineering",
+        "university": "Anna university",
+        "cgpa": "8.8",
+        "graduationYear": "2024",
+        "marksheet": ""
+      }
+    },
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 4885",
+    "dateOfBirth": "2001-04-14",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #2: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #3: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-115404",
+    "candidateId": "CT-2026-115404",
+    "email": "jsreshma04@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Reshma ",
+      "lastName": "JS",
+      "phone": "9488842345",
+      "email": "jsreshma04@gmail.com",
+      "emailVerified": false,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-04-14"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "vrp ",
+        "board": "CBSE",
+        "year": "2018",
+        "percentage": "90",
+        "marksheet": ""
+      },
+      "twelfth": {
+        "school": "vrp",
+        "board": "CBSE",
+        "year": "2020",
+        "percentage": "90",
+        "marksheet": ""
+      },
+      "college": {
+        "collegeName": "Easwari engineering college",
+        "degree": "B.Tech in Computer Science",
+        "branch": "Computer Science & Engineering",
+        "university": "anna unnivercity",
+        "cgpa": "8.8",
+        "graduationYear": "2024",
+        "marksheet": ""
+      }
+    },
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 6060",
+    "dateOfBirth": "2001-04-14",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #2: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #3: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-497792",
+    "candidateId": "CT-2026-497792",
+    "email": "arun.kumar@example.com",
+    "roleApplied": "Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Arun",
+      "lastName": "Kumar",
+      "phone": "+919876543210",
+      "email": "arun.kumar@example.com",
+      "emailVerified": true,
+      "phoneVerified": true,
+      "dateOfBirth": "2001-05-15"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "Govt Higher Secondary School",
+        "board": "State Board",
+        "year": "2017",
+        "percentage": "94%"
+      },
+      "twelfth": {
+        "school": "Govt Junior College",
+        "board": "State Board",
+        "year": "2019",
+        "percentage": "91%"
+      },
+      "college": {
+        "collegeName": "Anna University",
+        "degree": "B.E Computer Science",
+        "branch": "CSE",
+        "university": "Anna University",
+        "cgpa": "8.6"
+      }
+    },
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 4321",
+    "dateOfBirth": "2001-05-15",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "/uploads/default_avatar.png... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #2: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #3: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-2026-568907",
+    "candidateId": "CT-2026-568907",
+    "email": "jsreshma04@gmail.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Reshma",
+      "lastName": "J",
+      "phone": "+91 9876543210",
+      "email": "jsreshma04@gmail.com",
+      "dateOfBirth": "2002-05-14"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "St. Anne High School",
+        "board": "State",
+        "year": "2018",
+        "percentage": "94%"
+      },
+      "twelfth": {
+        "school": "St. Anne Higher Secondary",
+        "board": "State",
+        "year": "2020",
+        "percentage": "92%"
+      },
+      "college": {
+        "collegeName": "Anna University",
+        "degree": "B.Tech",
+        "branch": "CSE",
+        "university": "Anna University",
+        "cgpa": "8.9"
+      }
+    },
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX XXXX 9012",
+    "dateOfBirth": "2002-05-14",
+    "networkLocation": {
+      "ip": "::1",
+      "location": "Bengaluru, Karnataka, IN (Local/Mesh)"
+    },
+    "profilePhoto": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD... [Base64 Image Data]",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #2: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]",
+      "Live Photo #3: data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQ... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-928410",
+    "candidateId": "CT-2026-784920",
+    "email": "candidate@demo.com",
+    "roleApplied": "Senior Full Stack Engineer",
+    "overallStatus": "Verified",
+    "personalDetails": {
+      "firstName": "Alex",
+      "lastName": "Morgan",
+      "email": "candidate@demo.com",
+      "phone": "+91 91234 56789",
+      "currentLocation": "Bengaluru, India",
+      "preferredLocation": "Bengaluru / Remote",
+      "address": "42 Tech Residency, Indiranagar, Bengaluru"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "St. Joseph High School",
+        "board": "CBSE",
+        "passingYear": "2018",
+        "percentage": "94%"
+      },
+      "twelfth": {
+        "school": "Delhi Public School",
+        "board": "CBSE",
+        "passingYear": "2020",
+        "percentage": "92.5%"
+      },
+      "college": {
+        "degree": "B.Tech in Computer Science",
+        "branch": "Computer Science & Engineering",
+        "college": "National Institute of Technology",
+        "university": "NIT",
+        "startYear": "2020",
+        "graduationYear": "2024",
+        "cgpa": "8.8 / 10"
+      }
+    },
+    "skills": [
+      {
+        "name": "React.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js / Express",
+        "level": "Advanced"
+      },
+      {
+        "name": "TypeScript",
+        "level": "Intermediate"
+      },
+      {
+        "name": "PostgreSQL",
+        "level": "Intermediate"
+      },
+      {
+        "name": "Cloud & Docker",
+        "level": "Intermediate"
+      }
+    ],
+    "govtIdMasked": "XXXX-XXXX-7492",
+    "dateOfBirth": "2001-04-14",
+    "networkLocation": {
+      "ip": "106.51.78.22",
+      "location": "Bengaluru, Karnataka, IN"
+    },
+    "profilePhoto": "None",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #2: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #3: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]"
+    ]
+  },
+  {
+    "applicationNo": "APP-410982",
+    "candidateId": "CT-2026-319804",
+    "email": "priya.sharma@demo.com",
+    "roleApplied": "AI & Data Scientist",
+    "overallStatus": "Needs Review",
+    "personalDetails": {
+      "firstName": "Priya",
+      "lastName": "Sharma",
+      "email": "priya.sharma@demo.com",
+      "phone": "+91 98877 66554",
+      "currentLocation": "Mumbai, India",
+      "preferredLocation": "Mumbai / Pune",
+      "address": "7th Floor, Cyber Hub, Bandra Kurla Complex"
+    },
+    "educationDetails": {
+      "tenth": {
+        "school": "Delhi Public School",
+        "board": "CBSE",
+        "passingYear": "2017",
+        "percentage": "91%"
+      },
+      "twelfth": {
+        "school": "St. Xavier Junior College",
+        "board": "State Board",
+        "passingYear": "2019",
+        "percentage": "89%"
+      },
+      "college": {
+        "degree": "M.S. in Data Science",
+        "branch": "Artificial Intelligence",
+        "college": "IIT Bombay",
+        "university": "IIT",
+        "startYear": "2019",
+        "graduationYear": "2024",
+        "cgpa": "9.2 / 10"
+      }
+    },
+    "skills": [],
+    "govtIdMasked": "ABXXXXX891C",
+    "dateOfBirth": "2000-11-22",
+    "networkLocation": {
+      "ip": "185.220.101.5",
+      "location": "Frankfurt, DE (Tor/VPN Relay)"
+    },
+    "profilePhoto": "None",
+    "liveWebcamPhotos": [
+      "Live Photo #1: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #2: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]",
+      "Live Photo #3: data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22h... [Base64 Image Data]"
+    ]
+  }
+]
